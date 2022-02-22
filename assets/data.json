@@ -1,0 +1,982 @@
+{
+    "data": [
+        {
+            "name": "Addict action 13 - Permanence cité des associations",
+            "desc": "Cité des associations Canebière, 93 la Canebière, 13001 Marseille\n06 20 04 30 67",
+            "lat": 43.2981887,
+            "long": 5.38169360000006
+        },
+        {
+            "name": "Addict action 13 - Permanence CMA 4/5",
+            "desc": "Centre Municipal d'Animation 4/5, 17 bd Jeanne d’Arc, 13005 Marseille\n06 20 04 30 67",
+            "lat": 43.294305,
+            "long": 5.39890460000003
+        },
+        {
+            "name": "Addiction Méditerranée Siège",
+            "desc": "7 square Stalingrad, 13001 Marseille\n04 91 56 08 40",
+            "lat": 43.3001897,
+            "long": 5.3849233
+        },
+        {
+            "name": "Alcooliques Anonymes - Aix-en-Provence",
+            "desc": "Chemin du Square Val Saint André, 13100 Aix-en-Provence\n09 69 39 40 20 / 04 42 38 26 60",
+            "lat": 43.51731,
+            "long": 5.469901
+        },
+        {
+            "name": "Alcooliques Anonymes - Aix-en-Provence Montperrin",
+            "desc": "15 av Louis Coirard, 13100 Aix-en-Provence\n09 69 39 40 20",
+            "lat": 43.5200771,
+            "long": 5.4374131
+        },
+        {
+            "name": "Alcooliques Anonymes - Aubagne",
+            "desc": "24 rue Jeu de Ballon, 13400 Aubagne\n09 69 39 40 20",
+            "lat": 43.2914918,
+            "long": 5.5713004
+        },
+        {
+            "name": "Alcooliques Anonymes - Marseille Capelette",
+            "desc": "221 av de la Capelette, 13010 Marseille\n09 69 39 40 20",
+            "lat": 43.2804421,
+            "long": 5.4100333
+        },
+        {
+            "name": "Alcooliques Anonymes - Marseille Destination Demain",
+            "desc": "Eglise de la Trinité, 35 rue de la Palud, 13001 Marseille\n09 69 39 40 20",
+            "lat": 43.29389421635821,
+            "long": 5.380890302291876
+        },
+        {
+            "name": "Alcooliques Anonymes - Marseille Sylvabelle",
+            "desc": "71 rue Sylvabelle, 13006 Marseille\n09 69 39 40 20",
+            "lat": 43.288878757644355,
+            "long": 5.377197418758298
+        },
+        {
+            "name": "Alcooliques Anonymes - Marseille Sénac",
+            "desc": "6 rue Sénac, 13001 Marseille\n09 69 39 40 20",
+            "lat": 43.2978666,
+            "long": 5.3834089
+        },
+        {
+            "name": "Alcooliques Anonymes - Salon de Provence",
+            "desc": "Rue du Pavillon, 13300 Salon de Provence\n09 69 39 40 20",
+            "lat": 43.6409924,
+            "long": 5.1060616
+        },
+        {
+            "name": "Alcooliques Anonymes - Vitrolles",
+            "desc": "Arcade des Abbayes, 13127 Vitrolles\n04 42 38 05 83, 09 69 39 40 20",
+            "lat": 43.448411,
+            "long": 5.248321
+        },
+        {
+            "name": "Antenne Martigues - CSAPA Marseille Etang de Berre - Centre de Soins, d'Accompagnement et de Prévention en Addictologie - Association Addictions France (ex ANPAA)",
+            "desc": "Maison de Santé Pluridisciplinaire de l'Escaillon, Avenue Jean Paul Marat, 13500 Martigues\n04 42 07 28 23",
+            "lat": 43.430711,
+            "long": 5.04569149999999
+        },
+        {
+            "name": "Antenne Salon de Provence - CSAPA Aix-en-Provence - Centre de Soins, d'Accompagnement et de Prévention en Addictologie - Association Addictions France (ex ANPAA)",
+            "desc": "14 rue Coutellerie , 13300 Salon de Provence\n04 90 55 64 22",
+            "lat": 43.6419617,
+            "long": 5.0971512
+        },
+        {
+            "name": "Antenne Tarascon - CSAPA Aix en provence - Centre de Soins, d'Accompagnement et de Prévention en Addictologie - Association Addictions France (ex ANPAA)",
+            "desc": "Quartier Kilmaine , 9 allée du centre de sélection, 13150 Tarascon\n04 90 43 35 86",
+            "lat": 43.806044,
+            "long": 4.65752
+        },
+        {
+            "name": "Association Santé!",
+            "desc": "11 A rue Astruc, 13005 Marseille\n04 84 33 32 19",
+            "lat": 43.2948722,
+            "long": 5.395851
+        },
+        {
+            "name": "CACC CH Valvert - Centre d'accueil de crise et de consultations",
+            "desc": "78 bd des Libérateurs, 13011 Marseille\n04 91 87 67 67",
+            "lat": 43.3010868,
+            "long": 5.4621414
+        },
+        {
+            "name": "CJC - CSAPA L'Entre-temps - Consultation Jeunes Consommateurs - Addiction Méditerranée",
+            "desc": "7 avenue Frédéric Mistral, 13500 Martigues\n04 42 81 00 56",
+            "lat": 43.4021611,
+            "long": 5.0574614
+        },
+        {
+            "name": "CJC - CSAPA Tremplin2prev - Consultation Jeunes Consommateurs - Addiction Méditerranée",
+            "desc": "9, allée Ruffinus, 13100 Aix-en-Provence\n04 42 26 15 16",
+            "lat": 43.533166,
+            "long": 5.448484
+        },
+        {
+            "name": "CJC - CSAPA La maison jaune - Consultation Jeunes Consommateurs - Groupe SOS",
+            "desc": "espace Chiavary, 12 boulevard Emile Zola, 13200 Arles\n04 90 93 46 50",
+            "lat": 43.679991,
+            "long": 4.63052790000006
+        },
+        {
+            "name": "CJC - CSAPA Le Sept - Consultation Jeunes Consommateurs - Addiction Méditerranée",
+            "desc": "7 avenue Fallen, 13400 Aubagne\n04 42 70 54 30",
+            "lat": 43.2933227,
+            "long": 5.5655588
+        },
+        {
+            "name": "CJC - CSAPA Corderie – Consultation Jeunes Consommateurs - Espace Puget Bis",
+            "desc": "8, Bd Notre Dame, 13006 Marseille\n04 96 17 67 75",
+            "lat": 43.2902083,
+            "long": 5.3722407
+        },
+        {
+            "name": "Clinique Saint-Barnabé",
+            "desc": "72, chemin de Fontainieu , Quartier Saint-Joseph , 13014 Marseille\n04 96 15 87 29",
+            "lat": 43.3518104,
+            "long": 5.3816283
+        },
+        {
+            "name": "CMP Adultes - les Tournesols - Berre l'étang - CH Montperrin",
+            "desc": "42bis avenue Roger Salengro, 13130 Berre l'étang\n04 42 85 35 86",
+            "lat": 43.4780211,
+            "long": 5.1688009
+        },
+        {
+            "name": "CMP L'Arc - Enfants 0-12 ans - CH Montperrin",
+            "desc": "373 Av. Jean Paul Coste , Le Bel Ormeau - Bât H, 13100 Aix-en-Provence\n04 42 28 05 15",
+            "lat": 43.5140963,
+            "long": 5.4604572
+        },
+        {
+            "name": "CMP 16-65ans - L’Ile Verte - CH Valvert",
+            "desc": "372, Avenue Guillaume Dulac, 13600 La Ciotat\n04 42 73 45 75",
+            "lat": 43.189073,
+            "long": 5.6088499
+        },
+        {
+            "name": "CMP Adolescents",
+            "desc": "325 Avenue du Petit Barthélémy, 13616 Aix-en-Provence\n04 42 28 34 11",
+            "lat": 43.5206997,
+            "long": 5.4374218
+        },
+        {
+            "name": "CMP Ados 12-18ans - Victor Hugo - CH ARLES",
+            "desc": "4 av Victor Hugo, 13200 Arles\n04 90 96 72 06",
+            "lat": 43.6749888,
+            "long": 4.6335925
+        },
+        {
+            "name": "CMP Adultes - Lafon Service Chabannes",
+            "desc": "9 rue Lafon, 13006 Marseille\n04 91 43 59 10",
+            "lat": 43.2916923,
+            "long": 5.3814941
+        },
+        {
+            "name": "CMP Adultes - Pierre Carabelli - CH Montperrin",
+            "desc": "17, Avenue Coirard, 13100 Aix-en-Provence\n04 42 28 34 51",
+            "lat": 43.5201374,
+            "long": 5.4377442
+        },
+        {
+            "name": "CMP Adultes - Pressensé - CH Edouard Toulouse",
+            "desc": "39, rue Francis de Pressensé, 13001 Marseille\n04 91 90 01 28",
+            "lat": 43.3010708,
+            "long": 5.3780464
+        },
+        {
+            "name": "CMP Adultes - Acanthe - CH Montperrin",
+            "desc": "26, rue de François, 13120 Gardanne\n04 42 58 25 68",
+            "lat": 43.4567717,
+            "long": 5.4680435
+        },
+        {
+            "name": "CMP Adultes - Arcade - CH Montperrin",
+            "desc": "Rue Félix Pyat, 13530 Trets\n04 42 29 26 84",
+            "lat": 43.447047,
+            "long": 5.685326
+        },
+        {
+            "name": "CMP Adultes - Belle de Mai - CH Edouard Toulouse",
+            "desc": "150 rue de Crimée, 13003 Marseille\n04 91 50 20 37",
+            "lat": 43.3098931,
+            "long": 5.3776133
+        },
+        {
+            "name": "CMP Adultes - Boulégon - CH Montperrin",
+            "desc": "30 rue Boulegon, 13100 Aix-en-Provence\n04 42 23 53 83",
+            "lat": 43.5311406,
+            "long": 5.449871
+        },
+        {
+            "name": "CMP Adultes - CH d'Arles",
+            "desc": "3 rue des salicornes, 13129 Salin de Giraud\n04 90 50 01 92",
+            "lat": 43.4130442,
+            "long": 4.7324372
+        },
+        {
+            "name": "CMP Adultes - La rose des sables - CH Montperrin",
+            "desc": "rue abbé Couture, 13140 Miramas\n04 90 50 00 09",
+            "lat": 43.585025,
+            "long": 5.005937
+        },
+        {
+            "name": "CMP Adultes - la Villa blanche - CH Montperrin",
+            "desc": "203 avenue Gaston cabrier, 13300 Salon de Provence\n04 90 56 07 87",
+            "lat": 43.6415079,
+            "long": 5.1027992
+        },
+        {
+            "name": "CMP Adultes - La Viste - CH Edouard Toulouse",
+            "desc": "43, avenue de la Viste, 13015 Marseille\n04 91 60 44 43",
+            "lat": 43.3561371,
+            "long": 5.3567145
+        },
+        {
+            "name": "CMP Adultes - Le Parc - CH Edouard Toulouse",
+            "desc": "50, rue André Roussint, 13016 Marseille\n04 91 03 09 95",
+            "lat": 43.3810831,
+            "long": 5.3596057
+        },
+        {
+            "name": "CMP Adultes - Les Chartreux",
+            "desc": "1A, rue sainte-Agnès, 13004 Marseille\n04 91 70 90 72",
+            "lat": 43.314324,
+            "long": 5.407687
+        },
+        {
+            "name": "CMP Adultes - Port de Bouc",
+            "desc": "Boulevard Frédéric Chopin, 13110 Port de Bouc\n04 42 43 20 35",
+            "lat": 43.4152261,
+            "long": 4.98410509999996
+        },
+        {
+            "name": "CMP Adultes - Saïgon - CH Valvert",
+            "desc": "10 bd de Saïgon, 13010 Marseille\n04 91 35 00 14",
+            "lat": 43.2811581,
+            "long": 5.43393689999993
+        },
+        {
+            "name": "CMP Adultes - Saint Martin de Crau - CH d'Arles",
+            "desc": "résidence Jean Moulin, Rue Jean Moulin, 13310 Saint Martin de Crau\n04 90 47 20 40",
+            "lat": 43.640451,
+            "long": 4.818936
+        },
+        {
+            "name": "CMP Adultes - Stade - CH Martigues",
+            "desc": "2 rue du stade, 13700 Marignane\n04 42 77 84 01",
+            "lat": 43.4196758,
+            "long": 5.2132604
+        },
+        {
+            "name": "CMP Adultes - Tarascon - CH d'Arles",
+            "desc": "Avenue Pierre Sémard, 13150 Tarascon\n04 90 91 53 58",
+            "lat": 43.801977,
+            "long": 4.658481
+        },
+        {
+            "name": "CMP Adultes - Trinquetaille Arles",
+            "desc": "54 rue Maréchal Galliéni, 13200 Arles\n04 90 93 98 55",
+            "lat": 43.6792316,
+            "long": 4.61663539999995
+        },
+        {
+            "name": "CMP Adultes - Villa Mélodie - CH Montperrin",
+            "desc": "42 av Camille Pelletan, 13127 Vitrolles\n04 42 89 51 50",
+            "lat": 43.4579656,
+            "long": 5.2494379
+        },
+        {
+            "name": "CMP Adultes de la marine Blanche - CH Edouard Toulouse",
+            "desc": "3, chemin de Saint Joseph à Sainte Marthe, 13014 Marseille\n04 91 11 64 70",
+            "lat": 43.3410185,
+            "long": 5.3863889
+        },
+        {
+            "name": "CMP Adultes Jean Sutter - CH Montperrin",
+            "desc": "3, rue Joannon Marcel Provence, 13100 Aix-en-Provence\n04 42 23 92 87",
+            "lat": 43.5310515,
+            "long": 5.4387178
+        },
+        {
+            "name": "CMP Adultes St Barnabé - CH Valvert",
+            "desc": "101 Avenue des Caillols, 13012 Marseille\n04 91 93 95 30",
+            "lat": 43.3039463,
+            "long": 5.4324544
+        },
+        {
+            "name": "CMP Allauch - CH Valvert",
+            "desc": "830 avenue Salvador Allende, 13190 Allauch\n04.91.05.48.33",
+            "lat": 43.3520537,
+            "long": 5.4779666
+        },
+        {
+            "name": "CMP des Canourgues Enfants/Ados 0-18ans - CH Montperrin",
+            "desc": "bd des nations unies, 13300 Salon de Provence\n04 90 53 58 30",
+            "lat": 43.651705,
+            "long": 5.1022282
+        },
+        {
+            "name": "CMP Enfants (0-12ans) - CH d'Arles",
+            "desc": "2 rue de Pise, 13200 Arles\n04 90 52 21 63",
+            "lat": 43.6664272,
+            "long": 4.6130078
+        },
+        {
+            "name": "CMP Enfants 0-16 ans - St Barnabé Hugues - CH Valvert",
+            "desc": "35 Boulevard Hugues, 13012 Marseille\n04 91 34 88 44",
+            "lat": 43.3014595,
+            "long": 5.4190953
+        },
+        {
+            "name": "CMP Enfants 0-16 ans - CH Valvert",
+            "desc": "74 av. Kennedy, 13600 La Ciotat\n04 42 08 05 82",
+            "lat": 43.1789949,
+            "long": 5.6002823
+        },
+        {
+            "name": "CMP Enfants 0-16 ans - CH Valvert",
+            "desc": "10 Bd de Saïgon, 13010 Marseille\n04 91 35 00 14",
+            "lat": 43.2811581,
+            "long": 5.4339369
+        },
+        {
+            "name": "CMP Enfants 6-12ans - Louis - CH Edouard Toulouse",
+            "desc": "99 avenue de St Louis, 13015 Marseille\n04 91 60 08 20",
+            "lat": 43.3463377,
+            "long": 5.3591946
+        },
+        {
+            "name": "CMP Enfants jusqu'à 16 ans - CH d'Arles",
+            "desc": "64 rue de la république, 13310 Saint Martin de Crau\n04 90 47 20 84",
+            "lat": 43.6375722,
+            "long": 4.8065507
+        },
+        {
+            "name": "CMP Enfants/Ados - La Boétie - CH Montperrin",
+            "desc": "54 cité la Boétie, allée des Amandiers, 13130 Berre l'étang\n04 42 85 31 60",
+            "lat": 43.481142,
+            "long": 5.172141
+        },
+        {
+            "name": "CMP Enfants/Ados 0-18ans - Villa Jeanne - CH Edouard Toulouse",
+            "desc": "7, Boulevard Charles Bourseult, 13014 Marseille\n04 91 60 95 46",
+            "lat": 43.3432928,
+            "long": 5.3788109
+        },
+        {
+            "name": "CMP Enfants/Ados (0-16ans) - Les Ricochets - Allauch - CH Valvert",
+            "desc": "711, av Salvator Allende, 13190 Allauch\n04 91 05 67 00",
+            "lat": 43.3518598,
+            "long": 5.47974020000003
+        },
+        {
+            "name": "CMP Enfants/Ados - 0-18ans - CH Martigues",
+            "desc": "tse C. Marville, av. Félix Ziem, 13500 Martigues\n04 42 43 21 55",
+            "lat": 43.4019364,
+            "long": 5.0475491
+        },
+        {
+            "name": "CMP Enfants/Ados - 0-18ans - Lambesc - CH Montperrin",
+            "desc": "7 av. de la Résistance, 13410 Lambesc\n04 42 92 83 03",
+            "lat": 43.656171,
+            "long": 5.2622567
+        },
+        {
+            "name": "CMP Enfants/Ados - St Marcel - CH Valvert",
+            "desc": "2 traverse Notre Dame, 13011 Marseille\n04.91.44 90 04",
+            "lat": 43.3001922,
+            "long": 5.5171398
+        },
+        {
+            "name": "CMP Enfants/Ados 0-16ans - Le Liourat - CH Montperrin",
+            "desc": "1 av. Je.Constant, 13127 Vitrolles\n04 42 89 02 32",
+            "lat": 43.458598,
+            "long": 5.249703
+        },
+        {
+            "name": "CMP Enfants/Ados 0-16ans et Adultes - Barthélémy Aubagne - CH Valvert",
+            "desc": "2 rue du docteur Barthélémy, 13400 Aubagne\n04 42 03 82 13",
+            "lat": 43.2960225,
+            "long": 5.5676754
+        },
+        {
+            "name": "CMP Enfants/Ados 0-18ans - St André Littoral - CH Edouard Toulouse",
+            "desc": "Immeuble Grand Panorama, , 114 Bd Jean Labro, 13016 Marseille\n04 91 65 29 89",
+            "lat": 43.35352,
+            "long": 5.3386686
+        },
+        {
+            "name": "CMP Enfants/Ados 0-18ans - Le Gauguin - CH Montperrin",
+            "desc": "Cité Administrative , Bd Paul Cézanne, 13120 Gardanne\n04 42 58 45 90",
+            "lat": 43.4522342,
+            "long": 5.4683099
+        },
+        {
+            "name": "CMP Enfants/Ados 0-18ans - CH Martigues",
+            "desc": "Place du Marché , 13270 Fos sur mer\n04 42 05 25 80",
+            "lat": 43.441296,
+            "long": 4.9450672
+        },
+        {
+            "name": "CMP Enfants/Ados 0-18ans - la Garance - CH Montperrin",
+            "desc": "133 bd Pécout, 84120 Pertuis\n04 90 79 98 50",
+            "lat": 43.6913641,
+            "long": 5.502374
+        },
+        {
+            "name": "CMP Enfants/ados 0-18ans - La Gavotte - CH Edouard Toulouse",
+            "desc": "93 avenue François Mitterand, 13170 Les Pennes Mirabeau\n04 91 46 29 89",
+            "lat": 43.3801796,
+            "long": 5.3484012
+        },
+        {
+            "name": "CMP Enfants/Ados 0-18ans - Le Trident- CH Montperrin",
+            "desc": "place des Vents Provençaux, 13140 Miramas\n04 90 58 13 79",
+            "lat": 43.5806186,
+            "long": 5.0130453
+        },
+        {
+            "name": "CMP Enfants/ados 0-18ans - Paul Cézanne - CH Montperrin",
+            "desc": "53 bd Carnot, 13100 Aix-en-Provence\n04 42 91 41 99",
+            "lat": 43.5275054,
+            "long": 5.4554686
+        },
+        {
+            "name": "CMP Enfants/Ados 0-18ans - Port de Bouc - CH Martigues",
+            "desc": "rue de la république, 13110 Port de Bouc\n04 42 06 66 77",
+            "lat": 43.40195,
+            "long": 4.981744
+        },
+        {
+            "name": "CMP Enfants/Ados 0-18ans - Port St Louis du Rhône - CH Martigues",
+            "desc": "1 esplanade de la Paix, 13230 Port St Louis du Rhône\n04 42 43 21 85",
+            "lat": 43.3921524,
+            "long": 4.8024422
+        },
+        {
+            "name": "CMP Enfants/Ados 0-18ans - Pythéas - CH Edouard Toulouse",
+            "desc": "6 rue Pythéas, 13001 Marseille\n04 91 55 59 37",
+            "lat": 43.2944235,
+            "long": 5.3752865
+        },
+        {
+            "name": "CMP Enfants/Ados 3-17ans - CH d'Arles",
+            "desc": "5 bis rue Neuve, 13150 Tarascon\n04 90 54 22 35",
+            "lat": 43.8034803,
+            "long": 4.6590733
+        },
+        {
+            "name": "CMP Enfants/Ados du Viaduc (antenne) - CH Edouard Toulouse",
+            "desc": "363 Chemin de St Antoine à St Joseph, 13015 Marseille\n04 91 96 16 15",
+            "lat": 43.3674683,
+            "long": 5.3625401
+        },
+        {
+            "name": "CMP Les heures claires- Istres",
+            "desc": "Les Heures Claires, Quartier Les Heures Claires , 13800 Istres\n04 42 56 68 71",
+            "lat": 43.5212157,
+            "long": 4.9454803
+        },
+        {
+            "name": "CMPP - Marignane",
+            "desc": "10A av.Ste Anne, Bt l'Esculape, 13700 Marignane\n04 42 43 21 68",
+            "lat": 43.4212739,
+            "long": 5.218332
+        },
+        {
+            "name": "CMPP 3-16ans - la Roquette",
+            "desc": "place de l’Observatoire, 13200 Arles\n04 90 93 03 09",
+            "lat": 43.6755162,
+            "long": 4.6196242
+        },
+        {
+            "name": "CMPP Belle de Mai ARI",
+            "desc": "33 Rue du Génie, 13003 Marseille\n04 91 50 71 57",
+            "lat": 43.3075092,
+            "long": 5.3829573
+        },
+        {
+            "name": "CMPP Enfants - CH Martigues",
+            "desc": "montée E. Pottier, Cantoperdrix, 13500 Martigues\n04 42 80 67 50",
+            "lat": 43.404811,
+            "long": 5.053728
+        },
+        {
+            "name": "CMPP Enfants / Ados 3-18ans - CH Martigues",
+            "desc": "7 av. Corrao, 13700 Marignane\n04 42 43 21 55",
+            "lat": 43.4203782,
+            "long": 5.2191845
+        },
+        {
+            "name": "CMPP Enfants/Ados - Chazelet - Association Séréna",
+            "desc": "20, traverse des Rosiers, 13014 Marseille\n04 91 37 35 30",
+            "lat": 43.3230057,
+            "long": 5.387114
+        },
+        {
+            "name": "CMPP Enfants/Ados - Plaine Asso Séréna",
+            "desc": "25, rue des Trois mages, 13001 Marseille\n04 96 12 14 20",
+            "lat": 43.2946436,
+            "long": 5.3849179
+        },
+        {
+            "name": "CMPP Enfants/Ados - Verdillon - Association Séréna",
+            "desc": "60, rue Verdillon, 13010 Marseille\n04 91 17 10 60",
+            "lat": 43.2750767,
+            "long": 5.4242295
+        },
+        {
+            "name": "CMPP Enfants/Ados 6-18ans - La Ciotat",
+            "desc": "90 av. Georges Romand, 13600 La Ciotat\n04 42 83 80 80",
+            "lat": 43.174516,
+            "long": 5.6045974
+        },
+        {
+            "name": "CMPP Flamands Enfants/Ados Asso Séréna",
+            "desc": "10 avenue Alexandre Ansald, 13014 Marseille\n04 91 37 35 30",
+            "lat": 43.3320208,
+            "long": 5.4041999
+        },
+        {
+            "name": "CMPP Gilbert de Voisins",
+            "desc": "314 Avenue du Prado , 13008 Marseille\n04 91 29 31 10",
+            "lat": 43.2724539,
+            "long": 5.3902742
+        },
+        {
+            "name": "CMPP Paradis-ARI",
+            "desc": "2A rue de Rome, 13001 Marseille\n04 91 54 27 32",
+            "lat": 43.295315,
+            "long": 5.37809400000003
+        },
+        {
+            "name": "CMPP Plombières",
+            "desc": "56 Boulevard du Progrès , 13014 Marseille\n04 91 02 70 59",
+            "lat": 43.3194375,
+            "long": 5.3845711
+        },
+        {
+            "name": "CMPP République",
+            "desc": "13 rue Trigance, 13002 Marseille\n04 91 90 22 09",
+            "lat": 43.3007283,
+            "long": 5.3686847
+        },
+        {
+            "name": "CMPP Saint Just - Chartreux",
+            "desc": "21 bd Maréchal Juin, 13004 Marseille\n04 91 66 35 16",
+            "lat": 43.3105582,
+            "long": 5.4029541
+        },
+        {
+            "name": "CMPP Universitaire",
+            "desc": "5 rue des Allumettes, 13100 Aix-en-Provence\n04 42 93 38 10",
+            "lat": 43.525052,
+            "long": 5.440683
+        },
+        {
+            "name": "Consultation Addictologie - Hôpital Allauch",
+            "desc": "CH Allauch, Chemin des mille écus, 13190 Allauch\n04 91 10 10 11",
+            "lat": 43.336148,
+            "long": 5.4825739
+        },
+        {
+            "name": "Consultation Addictologie - Hôpital Nord",
+            "desc": "APHM Nord, chemin Bourrely, 13015 Marseille\n04 91 96 89 22",
+            "lat": 43.375575,
+            "long": 5.357726
+        },
+        {
+            "name": "Consultation addictologie - Hôpital Valvert",
+            "desc": "78, boulevard des Libérateurs, 13011 Marseille\n04 91 87 67 32",
+            "lat": 43.2995686,
+            "long": 5.46000709999999
+        },
+        {
+            "name": "Consultation addictologie Pole psychiatrie- Hôpital de la Conception",
+            "desc": "Hôpital de la Conception - Pôle Psychiatrie, bd Baille, 13005 Marseille\n04 91 43 55 51",
+            "lat": 43.2914053,
+            "long": 5.3960615
+        },
+        {
+            "name": "Consultation avancée ELSA CH Martigues",
+            "desc": "Maison Régionale de Santé, Centre Tertiaire la pyramide Place Champollion- rue de l'équerre , 13800 Istres\n06 85 93 68 10",
+            "lat": 43.505883,
+            "long": 4.98681799999997
+        },
+        {
+            "name": "Consultation d'addictologie - CH Martigues",
+            "desc": "Centre hospitalier de Martigues -Service d'addictologie, 3, bld des rayettes, 13500 Martigues\n04 42 43 27 75",
+            "lat": 43.4131444,
+            "long": 5.0410107
+        },
+        {
+            "name": "Consultations avancées CSAPA Tremplin - Addiction Méditerranée",
+            "desc": "Pole humanitaire-Jas de Bouffan, 7 rue Joseph Diouloufet, 13100 Aix-en-Provence\n04.42.53.82.10",
+            "lat": 43.5300159,
+            "long": 5.4186829
+        },
+        {
+            "name": "Consultations avancées - CJC JAM - Centre social l'Agora - Addiction Méditerranée",
+            "desc": "Centre social l'Agora, 34 rue de la Busserine, 13014 Marseille\n04 91 91 00 65",
+            "lat": 43.3302925,
+            "long": 5.3969052
+        },
+        {
+            "name": "Consultations avancées - CJC JAM - Centre social Les Hauts de Mazargues - Addiction Méditerranée",
+            "desc": "28 Avenue de la Martheline, 13009 Marseille\n04 91 91 00 65",
+            "lat": 43.2450364,
+            "long": 5.40211640000006
+        },
+        {
+            "name": "Consultations avancées - CJC JAM - Centre social La Capelette - Addiction Méditerranée",
+            "desc": "Centre social la capelette, 221 avenue de la capelette, 13010 Marseille\n04 91 91 00 65",
+            "lat": 43.2800629,
+            "long": 5.40980379999996
+        },
+        {
+            "name": "Consultations avancées - CJC JAM - Saint Gabriel - Addiction Méditerranée",
+            "desc": "Centre social Saint Gabriel, 12 rue Richard, 13014 Marseille\n04 91 91 00 65",
+            "lat": 43.3234663,
+            "long": 5.3836899
+        },
+        {
+            "name": "Consultations avancées - CJC JAM - Centre social Saint Louis - Addiction Méditerranée",
+            "desc": "Cité Campagne-Lévêque, 2 Boulevard Ledru Rollin, 13015 Marseille\n04 91 91 00 65",
+            "lat": 43.3433214,
+            "long": 5.35698290000004
+        },
+        {
+            "name": "Consultations avancées - Istres - CSAPA L'Entre-temps - Addiction Méditerrannée",
+            "desc": "Centre tertiaire « La Pyramide », Place Champollion, Maison Régionale de Santé, 13800 Istres\n04 42 81 00 56",
+            "lat": 43.5045154,
+            "long": 4.98661409999999
+        },
+        {
+            "name": "Consultations avancées - Marignane - CSAPA L'Entre-temps - Addiction Méditerranée",
+            "desc": "St Pierre 5, av de figueras, 13700 Marignane\n04 42 81 00 56",
+            "lat": 43.4148101,
+            "long": 5.2138328
+        },
+        {
+            "name": "Consultations avancées - Pertuis - CSAPA Tremplin - Addiction Méditerranée",
+            "desc": "Place Garcin, , 84120 Pertuis\n04 42 33 50 66",
+            "lat": 43.6921928,
+            "long": 5.50416119999999
+        },
+        {
+            "name": "Consultations avancées - Saint Rémy de Provence - CSAPA Antenne Tarascon - Association Addictions France (ex ANPAA)",
+            "desc": "Maison départementale de la Solidarité, Ancienne Gendarmerie - Pôle social - 14, bd Gambetta, 13210 Saint Rémy de Provence\n04 90 43 35 86",
+            "lat": 43.7904385,
+            "long": 4.83143470000004
+        },
+        {
+            "name": "Consultations avancées CSAPA entretemps Martigues",
+            "desc": "rue camille pelletan , Place de la paix\n04 42 81 00 56",
+            "lat": 43.436229,
+            "long": 4.94429499999999
+        },
+        {
+            "name": "Consultations avancées Port Saint Louis du Rhône - CSAPA Antenne Martigues - Association Addictions France (ex ANPAA)",
+            "desc": "117 avenue Gabriel Péri, Centre Médical Mutualiste, 13230 Port Saint Louis du Rhône\n04 42 07 28 23",
+            "lat": 43.3932989,
+            "long": 4.7966025
+        },
+        {
+            "name": "Consultations avancées Vitrolles - CSAPA Antenne Martigues - Association Addictions France (ex ANPAA)",
+            "desc": "Rue René Seyssaud 1 rue Pierre Rabhi, 13127 Vitrolles\n04 42 07 28 23",
+            "lat": 43.4411036,
+            "long": 5.2577365
+        },
+        {
+            "name": "CSAPA Aix en Provence - Centre de Soins, d'Accompagnement et de Prévention en Addictologie - Association Addictions France (ex ANPAA)",
+            "desc": "Centre Hospitalier du Pays d’Aix, Avenue des Tamaris - Cours de la Fontaine, 13100 Aix-en-Provence\n04 42 33 50 66",
+            "lat": 43.5354089,
+            "long": 5.44268880000004
+        },
+        {
+            "name": "CSAPA Marseille Etang de Berre - Centre de Soins, d'Accompagnement et de Prévention en Addictologie - Association Addictions France (ex ANPAA)",
+            "desc": "24 A, rue Fort Notre-Dame, 13007 Marseille\n04 91 84 75 12",
+            "lat": 43.2919866,
+            "long": 5.37156339999999
+        },
+        {
+            "name": "CSAPA Bus 31/32 - Centre de Soins, d'Accompagnement et de Prévention en Addictologie",
+            "desc": "4 av Rostand, 13003 Marseille\n04 95 04 56 06",
+            "lat": 43.3118458,
+            "long": 5.3780047
+        },
+        {
+            "name": "CSAPA Camargue - Mas Thibert - Centre de Soins, d'Accompagnement et de Prévention en Addictologie - Groupe SOS",
+            "desc": "Route de Port Saint-Louis-du-Rhône, 13104 Arles\n04 90 98 75 70",
+            "lat": 43.5425987,
+            "long": 4.73045739999997
+        },
+        {
+            "name": "CSAPA Corderie - Centre de Soins, d'Accompagnement et de Prévention en Addictologie – Centre Puget Corderie",
+            "desc": "2 Boulevard Notre Dame, 13006 Marseille\n04 91 54 70 70",
+            "lat": 43.2904087,
+            "long": 5.37214640000002
+        },
+        {
+            "name": "CSAPA Danielle Casanova - Centre de Soins, d'Accompagnement et de Prévention en Addictologie - Groupe SOS",
+            "desc": "357, boulevard National, 13003 Marseille\n04 95 04 35 25",
+            "lat": 43.3137124,
+            "long": 5.3740153
+        },
+        {
+            "name": "CSAPA Danielle Casanova Antenne Nord - Centre de Soins, d'Accompagnement et de Prévention en Addictologie - Groupe SOS",
+            "desc": "10, rue de Lyon, 13015 Marseille\n04 91 64 06 65",
+            "lat": 43.3628362,
+            "long": 5.3677844
+        },
+        {
+            "name": "CSAPA des Baumettes - Centre de Soins, d'Accompagnement et de Prévention en Addictologie",
+            "desc": "Centre Pénitentiaire des Baumettes, 239 chemin de Morgiou, 13020 Marseille\n04 91 40 88 52",
+            "lat": 43.2326531,
+            "long": 5.41457289999993
+        },
+        {
+            "name": "CSAPA La Ciotat - Centre de Soins, d'Accompagnement et de Prévention en Addictologie - Association Addictions France (ex ANPAA)",
+            "desc": "Hôpital de la Ciotat, Boulevard Lamartine, 13600 La Ciotat\n04 42 71 61 72",
+            "lat": 43.173653,
+            "long": 5.605155
+        },
+        {
+            "name": "CSAPA La Corniche - Centre de Soins, d'Accompagnement et de Prévention en Addictologie - Groupe SOS",
+            "desc": "2 Chemin de la mûre, 13015 Marseille\n04 91 25 27 36",
+            "lat": 43.3651729,
+            "long": 5.3723033
+        },
+        {
+            "name": "CSAPA La Maison jaune - Centre de Soins, d'Accompagnement et de Prévention en Addictologie - Groupe SOS",
+            "desc": "143 av de Stalingrad , 13200 Arles\n04 90 93 46 50",
+            "lat": 43.6982913,
+            "long": 4.642423
+        },
+        {
+            "name": "CSAPA Point Marseille - Centre de Soins, d'Accompagnement et de Prévention en Addictologie - Groupe SOS",
+            "desc": "24A, rue Fort Notre-Dame, 13007 Marseille\n04 96 11 29 11",
+            "lat": 43.2839895,
+            "long": 5.3547034
+        },
+        {
+            "name": "CSAPA Tremplin - Centre de Soins, d'Accompagnement et de Prévention en Addictologie - Addiction Méditerranée",
+            "desc": "810, Chemin ST Jean de Malte, 13100 Aix-en-Provence\n04 42 26 15 16",
+            "lat": 43.5052871,
+            "long": 5.4130893
+        },
+        {
+            "name": "CSAPA Villa Floréal - Antenne Salon de Provence - Centre de Soins, d'Accompagnement et de Prévention en Addictologie",
+            "desc": "356, boulevard Clémenceau , 13300 Salon de Provence\n04 90 56 00 43",
+            "lat": 43.6412733,
+            "long": 5.0900886
+        },
+        {
+            "name": "CSAPA Villa Floréal - Antenne Pertuis - Centre de Soins, d'Accompagnement et de Prévention en Addictologie",
+            "desc": "Place Garcin, 84120 Pertuis\n04 90 08 89 85",
+            "lat": 43.6920233,
+            "long": 5.50447380000002
+        },
+        {
+            "name": "CSAPA Villa Floréal - Centre de Soins, d'Accompagnement et de Prévention en Addictologie",
+            "desc": "Centre Hospitalier Montperrin, 109, avenue du Petit Barthélémy, 13100 Aix-en-Provence\n04 42 16 18 35",
+            "lat": 43.5211354,
+            "long": 5.4399312
+        },
+        {
+            "name": "DICAdd 13",
+            "desc": "Espace Liberté, 33, bd de la Liberté, 13001 Marseille\n04 88 92 70 13",
+            "lat": 43.3011884,
+            "long": 5.38286769999999
+        },
+        {
+            "name": "ELSA APHM Hôpitaux sud - Equipe de liaison et de soins en addictologie",
+            "desc": "AP-HM centre et sud, Timone, 13005 Marseille\n04 91 38 51 80",
+            "lat": 43.291153,
+            "long": 5.3936415
+        },
+        {
+            "name": "ELSA CH Arles - Equipe de liaison et de soins en addictologie",
+            "desc": "Centre hospitaler d'Arles - Hôpital Joseph Imbert, Quartier Fourchon, BP 80195 13637 Arles\n04 90 49 29 29",
+            "lat": 43.6579565,
+            "long": 4.63454609999996
+        },
+        {
+            "name": "ELSA CH Aubagne - Equipe de liaison et de soins en addictologie",
+            "desc": "CH Aubagne , 179 Avenue des Sœurs Gastine, 13400 Aubagne\n04 42 84 71 16",
+            "lat": 43.2913928,
+            "long": 5.5636248
+        },
+        {
+            "name": "ELSA CH Salon de Provence - Equipe de liaison et de soins en addictologie",
+            "desc": "207 Avenue Julien Fabre, 13300 Salon de Provence\n04 90 44 98 27",
+            "lat": 43.6395875,
+            "long": 5.102559
+        },
+        {
+            "name": "EMAP Equipe mobile Addiction Prévention - Groupe SOS",
+            "desc": "Antenne Nord du CSAPA Danielle Casanova, 10 rue de Lyon, 13015 Marseille\n07 86 56 06 23",
+            "lat": 43.3236962999999,
+            "long": 5.36760359999993
+        },
+        {
+            "name": "La croix bleue - Aix-en-Provence",
+            "desc": "6, rue Roux Alpheran, 13100 Aix-en-Provence",
+            "lat": 43.5252417,
+            "long": 5.4534211
+        },
+        {
+            "name": "La croix bleue - Marseille Belle de mai",
+            "desc": "Salle la fraternité, 7 boulevard Burel, 13003 Marseille",
+            "lat": 43.3145985,
+            "long": 5.3872938
+        },
+        {
+            "name": "La croix bleue - Marseille les olives",
+            "desc": "103, cité des Olives , Bât E27, 13013 Marseille",
+            "lat": 43.3306421,
+            "long": 5.4561836
+        },
+        {
+            "name": "Réseau Santé Ouest Etang de Berre RSOEB",
+            "desc": "Bld Paul Eluard, 13500 Martigues",
+            "lat": 43.4219332,
+            "long": 5.0535057
+        },
+        {
+            "name": "Stop Alcool",
+            "desc": "Maison pour tous Jas de Gouin, 13270 Fos sur mer",
+            "lat": 43.4745483,
+            "long": 4.9143239
+        },
+        {
+            "name": "Unité d'addictologie - CH Allauch",
+            "desc": "Chemin des Mille écus, 13190 Allauch",
+            "lat": 43.336304,
+            "long": 5.470133
+        },
+        {
+            "name": "Vie libre - Comité départemental des Bouches du Rhône",
+            "desc": "undefined",
+            "lat": 43.296482,
+            "long": 5.36978
+        },
+        {
+            "name": "Vie libre - Le Puy Sainte Réparade",
+            "desc": "Place de L'hôtel de Ville, 13610 Le Puy Sainte Réparade",
+            "lat": 43.6633923,
+            "long": 5.43078990000003
+        },
+        {
+            "name": "Vie libre - Martigues",
+            "desc": "Centre Social de Jonquières, Place du 8 mai 45, 13500 Martigues",
+            "lat": 43.3992646,
+            "long": 5.0562785
+        },
+        {
+            "name": "Vie libre - Istres",
+            "desc": "Maison Régionale de Santé, Place Champollion , 13800 Istres",
+            "lat": 43.50479745166544,
+            "long": 4.98724385108861
+        },
+        {
+            "name": "Consultations d'addictologie - CH d'Arles",
+            "desc": "Centre hospitalier Joseph-Imbert, Quartier Fourchon, 13200 Arles",
+            "lat": 43.658009081792386,
+            "long": 4.634830449244508
+        },
+        {
+            "name": "CSAPA Hôpitaux Sud - Centre de Soins, d'Accompagnement et de Prévention en Addictologie",
+            "desc": "Hôpital Sainte Marguerite, 17 avenue Viton, 13009 Marseille",
+            "lat": 43.259738214796286,
+            "long": 5.411505503667124
+        },
+        {
+            "name": "CSAPA L'Entre-temps - Centre de Soins, d'Accompagnement et de Prévention en Addictologie - Addiction Méditerranée",
+            "desc": "7 avenue Frédéric Mistral, 13500 Martigues",
+            "lat": 43.402311979291035,
+            "long": 5.058002337592052
+        },
+        {
+            "name": "CSAPA le Sémaphore - Centre de Soins, d'Accompagnement et de Prévention en Addictologie - Addiction Méditerranée",
+            "desc": "6, rue de Provence, 13004 Marseille",
+            "lat": 43.301518418271286,
+            "long": 5.397287956629256
+        },
+        {
+            "name": "CSAPA Le Sept - Centre de Soins, d'Accompagnement et de Prévention en Addictologie - Addiction Méditerranée",
+            "desc": "7, avenue Joseph Fallen, 13400 Aubagne",
+            "lat": 43.293510949120254,
+            "long": 5.566252617998252
+        },
+        {
+            "name": "ELSA CH Aix en Provence - Equipe de liaison et de soins en addictologie",
+            "desc": "Centre Hospitalier du Pays d’Aix, Avenue des Tamaris, 13100 Aix-en-Provence",
+            "lat": 43.53556443596596,
+            "long": 5.443214510609816
+        },
+        {
+            "name": "ELSA CH Edouard Toulouse Marseille - Equipe de liaison et de soins en addictologie psychiatrie",
+            "desc": "CH E. Toulouse, 118, chemin de Mimet, 13015 Marseille",
+            "lat": 43.38134240822858,
+            "long": 5.359920487316412
+        },
+        {
+            "name": "ELSA CH La Ciotat -Equipe de liaison et de soins en addictologie",
+            "desc": "CH la Ciotat, Boulevard Lamartine, 13600 La Ciotat",
+            "lat": 43.17990086272225,
+            "long": 5.609415784161752
+        },
+        {
+            "name": "ELSA CH Martigues - Equipe de liaison et de soins en addictologie",
+            "desc": "Centre hospitalier de Martigues, 3 boulevard des Rayettes, 13500 Martigues",
+            "lat": 43.41308388798735,
+            "long": 5.039344684169225
+        },
+        {
+            "name": "ELSA Hôpital Nord Marseille - Equipe de liaison et de soins en addictologie",
+            "desc": "Hôpital Nord Service de liaison en addictologie, Pavillon MIT Maladies infectieuses et tropicales, 13015 Marseille",
+            "lat": 43.37955579096,
+            "long": 5.363514487866252
+        },
+        {
+            "name": "La croix bleue - Arles",
+            "desc": "5 rue Léon Blum, 13200 Arles",
+            "lat": 43.680448939155475,
+            "long": 4.631299116161616
+        },
+        {
+            "name": "La croix bleue - Salon de Provence",
+            "desc": "81 rue des Argelas, 13300 Salon de Provence",
+            "lat": 43.64692093885334,
+            "long": 5.108585441847901
+        },
+        {
+            "name": "Le Fil rouge - Addiction Méditerrannée",
+            "desc": "7 Square Stalingrad, 13001 Marseille",
+            "lat": 43.30065639453519,
+            "long": 5.386485691011947
+        },
+        {
+            "name": "Unité d'addictologie - CH Montperrin",
+            "desc": "Centre Hospitalier Montperrin, 15 avenue Louis Coirard, 13100 Aix-en-Provence",
+            "lat": 43.5204610163134,
+            "long": 5.438487404512259
+        },
+        {
+            "name": "Unité hospitalière d'addictologie - CH Edouard Toulouse",
+            "desc": "CH Edouard Toulouse, 118 chemin de Mimet, 13015 Marseille",
+            "lat": 43.381326812825684,
+            "long": 5.359652266426942
+        },
+        {
+            "name": "Unité d'addictologie - Clinique Saint Barnabé",
+            "desc": "Clinique de Saint Barnabé, 72 chemin Rural de Fontainieu, 13014 Marseille",
+            "lat": 43.3522392051626,
+            "long": 5.385071073822212
+        }
+    ]
+}
