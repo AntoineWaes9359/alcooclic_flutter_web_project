@@ -1,0 +1,12 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"name": "alcooclic_web",
+			"path": "build/web/alcooclic_web"
+		}
+	],
+	"settings": {}
+}
