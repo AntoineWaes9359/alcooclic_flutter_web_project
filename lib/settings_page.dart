@@ -5,6 +5,9 @@ import 'package:shared_preferences/shared_preferences.dart';
 const String prefConfigJsonPath = 'config_json_path';
 const String prefSapshcutExePath = 'sapshcut_exe_path';
 
+/// SAP GUI `-language=` (e.g. EN, FR). Overrides JSON `language` when set.
+const String prefSapConnectionLanguage = 'sap_connection_language';
+
 /// Default when [prefSapshcutExePath] is not set in preferences.
 const String defaultSapshcutExePath =
     r'C:\Program Files (x86)\SAP\FrontEnd\SAPgui\sapshcut.exe';
@@ -19,6 +22,7 @@ class SettingsPage extends StatefulWidget {
 class _SettingsPageState extends State<SettingsPage> {
   final TextEditingController _pathController = TextEditingController();
   final TextEditingController _sapshcutController = TextEditingController();
+  final TextEditingController _languageController = TextEditingController();
   bool _loading = true;
 
   @override
@@ -32,6 +36,8 @@ class _SettingsPageState extends State<SettingsPage> {
     _pathController.text = prefs.getString(prefConfigJsonPath) ?? '';
     _sapshcutController.text =
         prefs.getString(prefSapshcutExePath) ?? defaultSapshcutExePath;
+    _languageController.text =
+        prefs.getString(prefSapConnectionLanguage)?.trim() ?? '';
     setState(() => _loading = false);
   }
 
@@ -51,6 +57,12 @@ class _SettingsPageState extends State<SettingsPage> {
       await prefs.remove(prefSapshcutExePath);
     } else {
       await prefs.setString(prefSapshcutExePath, sap);
+    }
+    final lang = _languageController.text.trim();
+    if (lang.isEmpty) {
+      await prefs.remove(prefSapConnectionLanguage);
+    } else {
+      await prefs.setString(prefSapConnectionLanguage, lang);
     }
     if (mounted) {
       ScaffoldMessenger.of(context).showSnackBar(
@@ -139,6 +151,7 @@ class _SettingsPageState extends State<SettingsPage> {
   void dispose() {
     _pathController.dispose();
     _sapshcutController.dispose();
+    _languageController.dispose();
     super.dispose();
   }
 
@@ -191,6 +204,28 @@ class _SettingsPageState extends State<SettingsPage> {
                         TextSpan(text: defaultSapshcutExePath),
                       ],
                     ),
+                  ),
+                  const SizedBox(height: 24),
+                  const Text(
+                    'Connection language',
+                    style: TextStyle(fontWeight: FontWeight.bold),
+                  ),
+                  const SizedBox(height: 8),
+                  TextField(
+                    controller: _languageController,
+                    decoration: const InputDecoration(
+                      hintText: 'EN (default if empty)',
+                      labelText: 'SAP GUI language (-language=)',
+                      border: OutlineInputBorder(),
+                    ),
+                    textCapitalization: TextCapitalization.characters,
+                    autocorrect: false,
+                  ),
+                  const SizedBox(height: 8),
+                  const Text(
+                    'Sent to sapshcut (e.g. EN, FR, DE). Leave empty to use the '
+                    '"language" field from your JSON, or EN if missing.',
+                    style: TextStyle(fontSize: 12, color: Colors.black54),
                   ),
                   const SizedBox(height: 24),
                   const Text(
