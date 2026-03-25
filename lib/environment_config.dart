@@ -22,7 +22,6 @@ class SapEnvironment {
   SapEnvironment({
     required this.id,
     required this.title,
-    required this.host,
     required this.iconName,
     required this.colorHex,
     required this.clients,
@@ -30,7 +29,6 @@ class SapEnvironment {
 
   final String id;
   final String title;
-  final String host;
   final String iconName;
   final String colorHex;
   final List<SapClientSlot> clients;
@@ -77,7 +75,6 @@ LoadedEnvironmentConfig parseEnvironmentsJson(String raw) {
     }
     final id = item['id'] as String?;
     final title = item['title'] as String?;
-    final host = item['host'] as String?;
     final iconName = item['icon'] as String? ?? 'settings';
     final colorHex = item['color'] as String? ?? '#757575';
     if (id == null || id.isEmpty) {
@@ -86,9 +83,6 @@ LoadedEnvironmentConfig parseEnvironmentsJson(String raw) {
     if (title == null || title.isEmpty) {
       throw EnvironmentConfigException(
           'Environment #$i: "title" is required.');
-    }
-    if (host == null || host.isEmpty) {
-      throw EnvironmentConfigException('Environment #$i: "host" is required.');
     }
     final clients = <SapClientSlot>[];
     for (final key in ['client1', 'client2', 'client3']) {
@@ -119,7 +113,6 @@ LoadedEnvironmentConfig parseEnvironmentsJson(String raw) {
     out.add(SapEnvironment(
       id: id,
       title: title,
-      host: host,
       iconName: iconName,
       colorHex: colorHex,
       clients: clients,

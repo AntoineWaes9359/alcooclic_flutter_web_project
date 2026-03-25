@@ -1,0 +1,69 @@
+{
+  "language": "EN",
+  "environments": [
+    {
+      "id": "D02",
+      "title": "D02 - DEV T&D - ECC",
+      "host": "vq02cs01.sce.com",
+      "icon": "ac_unit_sharp",
+      "color": "#E53935",
+      "client1": {
+        "label": "100",
+        "system": "D02",
+        "client": "100"
+      },
+      "client2": {
+        "label": "200",
+        "system": "D02",
+        "client": "200"
+      },
+      "client3": {
+        "label": "300",
+        "system": "D02",
+        "client": "300"
+      }
+    },
+    {
+      "id": "DU3",
+      "title": "DU3 - Dev CS IS-U",
+      "host": "vdu3cs01.sce.com",
+      "icon": "inbox_rounded",
+      "color": "#1E88E5",
+      "client1": {
+        "label": "300",
+        "system": "ITG",
+        "client": "300"
+      },
+      "client2": null,
+      "client3": null
+    },
+    {
+      "id": "Q02",
+      "title": "Q02 - QA T&D ECC",
+      "host": "vq02cs01.sce.com",
+      "icon": "hail_outlined",
+      "color": "#43A047",
+      "client1": {
+        "label": "300",
+        "system": "Q02",
+        "client": "300"
+      },
+      "client2": null,
+      "client3": null
+    },
+    {
+      "id": "QU3",
+      "title": "QU3 - CS QA IS-U",
+      "host": "sap-dvp.vinci-energies.net",
+      "icon": "code",
+      "color": "#FB8C00",
+      "client1": {
+        "label": "300",
+        "system": "QU2",
+        "client": "300"
+      },
+      "client2": null,
+      "client3": null
+    }
+  ]
+}

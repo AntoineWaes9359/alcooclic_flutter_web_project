@@ -4,7 +4,6 @@
     {
       "id": "PRD",
       "title": "Production",
-      "host": "sap.vinci-energies.net",
       "icon": "ac_unit_sharp",
       "color": "#E53935",
       "client1": {
@@ -18,7 +17,6 @@
     {
       "id": "ITG",
       "title": "Integration",
-      "host": "sap-itg.vinci-energies.net",
       "icon": "inbox_rounded",
       "color": "#1E88E5",
       "client1": {
@@ -32,7 +30,6 @@
     {
       "id": "RCT",
       "title": "Quality",
-      "host": "sap-rct.vinci-energies.net",
       "icon": "hail_outlined",
       "color": "#43A047",
       "client1": {
@@ -46,7 +43,6 @@
     {
       "id": "DVP",
       "title": "Development",
-      "host": "sap-dvp.vinci-energies.net",
       "icon": "code",
       "color": "#FB8C00",
       "client1": {
